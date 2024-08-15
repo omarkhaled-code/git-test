@@ -48,8 +48,6 @@
   p {
     font-size: 15px;
     font-weight: 400;
+    color: #777;
   }
-}
-
-@media (max-width: 375px) {
 }
